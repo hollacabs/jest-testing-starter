@@ -2,6 +2,7 @@
   * 1. keep the naming convention for this file of ______.test.js
   * 2. npm install jest
   * 3. organize into specific test suites (describe (test, test, test) etc.)
+  * 4. your package.json should include the npm test command. Refer to the package.json here for an example.
 
   * Matchers reference can be found here (.toBe, .not.toEqual, etc) 
   * https://facebook.github.io/jest/docs/en/using-matchers.html
