@@ -5,7 +5,7 @@
   * 4. your package.json should include the npm test command. Refer to the package.json here for an example.
 
   * Matchers reference can be found here (.toBe, .not.toEqual, etc) 
-  * https://facebook.github.io/jest/docs/en/using-matchers.html
+  * https://facebook.github.io/jest/docs/en/expect.html
 
 use these if needed
 beforeEach(() => {});
